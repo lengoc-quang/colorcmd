@@ -4,6 +4,8 @@ A new and beautiful GUI for Windows Command Prompt based on Python!
 
 This script use module `fade`, `os`, `ctypes`, `subprocess`.
 
+## Installation
+
 You can download release from release page, or run script manually:
 
 **Step 1:** Check if Python is installed: `python --version`.
@@ -22,3 +24,4 @@ If you see output like this: `Python 3.12.1`, you can go to the next step.
 
 `python terminal.py`
 
+If you downloaded the binary release, just extract it and run `colorcmd.exe` or add the directory to the path.
